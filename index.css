@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(20, 250, 62);
+}
+h2 {
+    color: rgb(255, 255, 255);
+    padding: 25px;
+    font-size: 150%;
+    border: 50cap;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+span {
+    color: rgb(255, 255, 255);
+    padding: 15%;
+    padding-bottom: 10%;
+font: size 120px;%
+}
+a {
+    padding: 30px;
+}
+p{
+color: rgb(250, 250, 251);
+padding: 6px;
+}
+
+a {
+    color: rgb(246, 246, 246);
+    border;
+}
+div{
+    color: rgb(248, 250, 252);
+}
+button {
+    padding: 12%;
+    border-image-outset: 2ch;
+    font-size: 80%;
+    border-style:initial
+}
